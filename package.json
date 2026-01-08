@@ -1,0 +1,12 @@
+{
+  "name": "mysettlement-email-newsletter",
+  "version": "1.0.0",
+  "description": "MySettlement.org email newsletter template",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
